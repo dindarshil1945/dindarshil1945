@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | AI Enthusiast | BCA Graduate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Python+%7C+Django+%7C+Flutter+%7C+MySQL;Intern+at+Luminar+Technolab;Building+AI-powered+projects+💻;Let's+connect+and+create+something+great!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Python+%7C+Django+%7C+Flutter+%7C+MySQL;Intern+at+Luminar+Technolab;Building+AI-powered+projects+💻;Let's+connect+and+create+something+great!+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -28,8 +28,8 @@
 ### 📈 GitHub Stats (Dark Theme)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinu-darshil&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinu-darshil&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dindarshil1945&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dindarshil1945&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
 </p>
 
 ---
@@ -59,6 +59,8 @@
 
 ---
 
+### 🐍 Contribution Graph Animation
+
 <p align="center">
-  <img src="https://github.com/dinu-darshil/dinu-darshil/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/dindarshil1945/dindarshil1945/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
