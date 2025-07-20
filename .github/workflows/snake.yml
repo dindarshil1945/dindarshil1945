@@ -9,12 +9,16 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      - name: Checkout Repository
+        uses: actions/checkout@v3  # THIS LINE IS IMPORTANT
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push to GitHub
+      - name: Push Snake SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
