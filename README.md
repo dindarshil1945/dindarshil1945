@@ -44,8 +44,10 @@
 
 ### 🌱 Currently Learning
 
-- ✅ Django Advanced Patterns
-- ✅ Responsive UI with Flutter
+- ✅ Django Framework
+- ✅ React Framework
+- ✅ Python 
+- ✅ SQL
 
 ---
 
